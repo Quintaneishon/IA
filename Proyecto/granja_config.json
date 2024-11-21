@@ -1,0 +1,18 @@
+{
+    "num_personas": 13,
+    "max_dias_mes": 20,
+    "max_dias_semana": 5,
+    "dias_descanso_cambio_turno": 2,
+    "roles": {
+        "alimentador_0_8": [0, 8],
+        "alimentador_8_16": [8, 16],
+        "alimentador_16_0": [16, 0]
+    },
+    "alimentacion_animales": {
+        "animal_1": [5, 15],
+        "animal_2": [2, 16],
+        "animal_3": [8, 12, 16]
+    },
+    "mes": 10,
+    "ano": 2024
+}

@@ -1,0 +1,13 @@
+{
+    "num_personas": 5,
+    "max_dias_mes": 18,
+    "max_dias_semana": 4,
+    "dias_descanso_cambio_turno": 2,
+    "roles": {
+        "auxiliar": [7, 17],
+        "operador_dia": [11, 21],
+        "operador_noche": [21, 7]
+    },
+    "mes": 10,
+    "ano": 2024
+}
